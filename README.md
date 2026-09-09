@@ -2,9 +2,9 @@
 
 An M&A / accretion-dilution model simulating a hypothetical acquisition of Warner Bros. Discovery (NASDAQ: WBD) by Netflix (NASDAQ: NFLX). Combines standalone three-statement projections for both companies with a full transaction structure — sources & uses, purchase price allocation, and pro forma accretion/dilution with sensitivity analysis.
 
-**Currency:** USD, millions (except per-share figures)
-**Deal / valuation date:** March 23, 2026
-**Historical years:** FY2021–FY2025 · **Projection years:** FY2026–FY2030
+-Currency: USD, millions (except per-share figures)
+-Deal / valuation date: March 23, 2026
+-Historical years: FY2021–FY2025 · Projection years: FY2026–FY2030
 
 ## Tab guide
 
